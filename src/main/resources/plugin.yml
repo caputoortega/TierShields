@@ -1,0 +1,6 @@
+name: plugin-name
+author: bernardMC
+description: A simple tiers plugin for shields
+main: net.glaciar.tiershields.TierShields
+version: plugin-version
+api-version: 1.15
